@@ -1,0 +1,13 @@
+
+
+# Ignorar entorno virtual
+venv/
+
+# Ignorar cachés
+__pycache__/
+
+# Ignorar archivos CSV generados
+data/*.csv
+
+# Ignorar archivos de Python creados automáticamente
+*.pyc
